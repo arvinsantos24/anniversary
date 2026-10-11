@@ -1,0 +1,8 @@
+{
+  "name": "Forever & Always - Anniversary Tribute",
+  "description": "A private, interactive romantic anniversary celebration website with customizable memories, love letter, photo gallery, live countdown, and background music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
